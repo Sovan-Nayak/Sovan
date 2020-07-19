@@ -1,2 +1,2 @@
 # Sovan
-This is for tutorial purpose
+This is for Learning purpose
